@@ -1,0 +1,11 @@
+streamlit
+openai
+PyPDF2
+python-docx
+numpy
+requests
+langchain-community
+langchain-core
+langchain-google-genai
+sentence-transformers
+langchain-huggingface
